@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Semana Da Ciência</title>
+</head>
+<body>
+   
+               
+
+
+
+     <h1>Semana Nacional de Ciência e tecnologia</h1>
+     <h2 style="color: green "> O que é SNCT?</h2>
+     <p style="color:rgb(36, 82, 66)"> A Semana Nacional de Ciência e Tecnologia (SNCT) é um evento anual promovido pelo governo brasileiro, com o objetivo de aproximar a ciência e a tecnologia da população. Acontecendo em diversas cidades do país, a SNCT reúne universidades, escolas, centros de pesquisa e instituições científicas em atividades como palestras, oficinas, exposições e feiras. O tema varia a cada edição, destacando questões atuais e incentivando o interesse por áreas como inovação, sustentabilidade, saúde e tecnologia. O evento busca despertar a curiosidade científica e promover o desenvolvimento do conhecimento no Brasil.</p>
+
+     <h2> Qual tema ?</h2>
+     <p style="color:rgb(36, 82, 66)"> Todos o ano o temas são diferente esse ano o tema é sobre biomas </p>
+
+     <h1><font color="green">  SNCT Mata Atlantica</font><h1>
+        <table border="1" bgcolor="green">
+        <tr>
+
+            <td>Onça-pintada</td>
+            <td><img src="https://portalribeira.com.br/images/noticias/21571/a6efe2bd1cbc379071cff59533f4b4e0.jpg" ></td>
+        </tr>
+
+
+</body>
+</html>
